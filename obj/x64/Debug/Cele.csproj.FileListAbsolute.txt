@@ -1,0 +1,13 @@
+c:\users\puth\documents\visual studio 2010\Projects\Cele\Cele\obj\x64\Debug\Interop.WMPLib.dll
+c:\users\puth\documents\visual studio 2010\Projects\Cele\Cele\obj\x64\Debug\AxInterop.WMPLib.dll
+c:\users\puth\documents\visual studio 2010\Projects\Cele\Cele\obj\x64\Debug\Cele.csproj.ResolveComReference.cache
+c:\users\puth\documents\visual studio 2010\Projects\Cele\Cele\bin\x64\Debug\Cele.exe
+c:\users\puth\documents\visual studio 2010\Projects\Cele\Cele\bin\x64\Debug\Cele.pdb
+c:\users\puth\documents\visual studio 2010\Projects\Cele\Cele\bin\x64\Debug\taglib-sharp.dll
+c:\users\puth\documents\visual studio 2010\Projects\Cele\Cele\bin\x64\Debug\Interop.WMPLib.dll
+c:\users\puth\documents\visual studio 2010\Projects\Cele\Cele\bin\x64\Debug\AxInterop.WMPLib.dll
+c:\users\puth\documents\visual studio 2010\Projects\Cele\Cele\obj\x64\Debug\Cele.Form1.resources
+c:\users\puth\documents\visual studio 2010\Projects\Cele\Cele\obj\x64\Debug\Cele.Properties.Resources.resources
+c:\users\puth\documents\visual studio 2010\Projects\Cele\Cele\obj\x64\Debug\Cele.csproj.GenerateResource.Cache
+c:\users\puth\documents\visual studio 2010\Projects\Cele\Cele\obj\x64\Debug\Cele.exe
+c:\users\puth\documents\visual studio 2010\Projects\Cele\Cele\obj\x64\Debug\Cele.pdb
